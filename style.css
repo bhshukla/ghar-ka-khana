@@ -1,0 +1,24 @@
+/* A nice modern reset to make styling consistent across browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4; /* Light grey background */
+}
+
+header {
+    background-color: #ff6347; /* A warm, tomato red color */
+    color: white; /* White text */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add some space around the text */
+}
+.loader {
+    text-align: center;
+    padding: 40px;
+    font-size: 1.2em;
+    color: #555;
+}
